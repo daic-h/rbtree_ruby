@@ -1,0 +1,3 @@
+class RedBlackTree
+  VERSION = "0.1.0"
+end
